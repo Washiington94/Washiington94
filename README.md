@@ -36,8 +36,11 @@
 
 ## 📫 Contato
 
-💼 LinkedIn  
-https://www.linkedin.com/in/washington-pereira-2396b8164/
+## 📫 Contato
 
-📂 GitHub  
-https://github.com/Washiington94
+* 📧 Email: **[washingtonpereira1504@hotmail.com](mailto:washingtonpereira1504@hotmail.com)**
+* 
+* 💼 LinkedIn: https://www.linkedin.com/in/washington-pereira-2396b8164/
+* 
+* 💻 GitHub: https://github.com/Washiington94
+
