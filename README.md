@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Washington Pereira
+# 👋 Olá Seja bem-vindo, eu sou Washington Pereira
 
 🎓 Estudante de Ciência da Computação  
 📊 Focado em Análise de Dados  
