@@ -36,8 +36,6 @@
 
 ## 📫 Contato
 
-## 📫 Contato
-
 * 📧 Email: **[washingtonpereira1504@hotmail.com](mailto:washingtonpereira1504@hotmail.com)**
 * 
 * 💼 LinkedIn: https://www.linkedin.com/in/washington-pereira-2396b8164/
