@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Olá, eu sou Washington Pereira
 
-<!--
-**Washiington94/Washiington94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Ciência da Computação  
+📊 Focado em Análise de Dados  
+💻 Em constante evolução na área de tecnologia
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias e Ferramentas
+
+- Python
+- Java
+- JavaScript
+- MySQL
+- Excel
+- Git e GitHub
+
+---
+
+## 📊 Atualmente estudando
+
+- Análise de Dados
+- Python para Data Science
+- SQL
+- Visualização de dados
+
+---
+
+## 📂 Projetos em destaque
+
+🔹 Sistema em Java com conexão MySQL  
+🔹 Exercícios de lógica e programação  
+🔹 Projetos acadêmicos de Ciência da Computação  
+
+---
+
+## 📫 Contato
+
+💼 LinkedIn  
+https://www.linkedin.com/in/washington-pereira-2396b8164/
+
+📂 GitHub  
+https://github.com/Washiington94
